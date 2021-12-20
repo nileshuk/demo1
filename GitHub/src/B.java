@@ -6,7 +6,7 @@ public class B
 	{
 		System.out.println("wlcome to cjc");
 		
-		
+		ffdfdf
 	}
 
 }
